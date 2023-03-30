@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Bienvenidos! Soy Carlos Estevez, un científico de datos apasionado por hacer que los datos cobren vida. En mi perfil de GitHub encontrarás mis proyectos. Me encanta encontrar soluciones creativas para problemas complejos y presentar mis resultados de manera clara y fácil de entender. Si estás buscando un científico de datos que pueda ayudarte a transformar tus datos en una obra maestra, estas en el lugar correcto.<br><br>¡explora mis proyectos, espero que te gusten tanto como a mí me gusta trabajar en ellos!<br>
+¡Bienvenidos! Soy Carlos Estevez, un científico de datos apasionado por hacer que los datos cobren vida. En mi perfil de GitHub encontrarás mis proyectos. Me encanta encontrar soluciones creativas para problemas complejos y presentar mis resultados de manera clara y fácil de entender. Si estás buscando un científico de datos que pueda ayudarte a transformar tus datos en una obra maestra, estas en el lugar correcto.<br><br>¡Explora mis proyectos, espero que te gusten tanto como a mí me gusta trabajar en ellos!<br>
 
 
 ## 🌐 Socials:
